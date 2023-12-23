@@ -45,7 +45,6 @@ print("Word Count in File=",count)
 ![Alt text](<cmd line 2-1.png>)
  
  
- 
 
 
 
