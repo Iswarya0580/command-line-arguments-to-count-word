@@ -26,6 +26,9 @@ In last statement give the print statement
 
 ## PROGRAM:
 ```
+##Developed By:Iswarya.P
+##Register no:23013459
+
 import sys
 count=0
 with open("text.txt",'r') as f:
